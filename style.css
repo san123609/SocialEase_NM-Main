@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header.img{
+    width: 10px;
+    height: 10px;
+  }
+  
+  header {
+    background-color: #f68a17;
+    color: #1b8faf;
+    padding: 10px;
+
+  }
+
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  #posts-container {
+    margin-bottom: 20px;
+  }
+  
+  .post {
+    border: 1px solid #96ce13;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .post p {
+    margin: 0;
+  }
+  
+  footer {
+    background-color: #19d116;
+    padding: 10px;
+    text-align: center;
+  }
+  
